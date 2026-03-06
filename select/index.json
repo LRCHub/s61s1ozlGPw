@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "億万☆Choooo者! -instrumental-",
+  "base_artist": "JELEE",
+  "createdAt": "2026-03-06T17:17:02.019523Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "億万☆Choooo者!",
+      "artist": "JELEE",
+      "has_synced": false,
+      "path": "select/pl_01_億万☆Choooo者!_JELEE.txt"
+    }
+  ]
+}
